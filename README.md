@@ -44,7 +44,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 --> https://telegra.ph/Clone-Bot-Termux-04-30
 <br/><br/>
 
-## ⚛️ Deploying on Heroku
+## ⚛️ l on Heroku
 
 
 
